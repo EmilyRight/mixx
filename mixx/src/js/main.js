@@ -2,7 +2,7 @@
 /// /////// DocReady //////////
 
 import CardModel from './components/card/cardModel';
-import CardPresenter from './components/card/cardPresentor';
+import CardPresenter from './components/card/cardPresenter';
 import CardView from './components/card/cardView';
 import ApiService from './services/api-service';
 
